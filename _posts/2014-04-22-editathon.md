@@ -16,4 +16,3 @@ If you have never edited OpenStreetMap before, come and learn! Bring your laptop
 Here's a great video that will show you the basics of editing OpenStreetMap. It is by the [MapGive](http://mapgive.state.gov/) campaign and aimed at mapping for humanitarian causes, but even if you want to edit the map right here in Utah, this video has good instructions.
 
 <iframe width="685" height="385" src="//www.youtube.com/embed/Ir-3K0pjwOI" frameborder="0" allowfullscreen></iframe>
-
