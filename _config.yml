@@ -1,0 +1,12 @@
+title:        Maptime SLC
+tagline:      'Maptime SLC - We love making maps!'
+description:  'Welcome to Maptime SLC. We get together about once a month to learn about making maps in the modern world.<br /><a href="https://twitter.com/MaptimeSLC">@maptimeslc</a>'
+url:          http://maptimeslc.org
+version:      
+author:
+  name:       ''
+  email:      ''
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
