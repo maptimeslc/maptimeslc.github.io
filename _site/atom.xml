@@ -4,13 +4,37 @@
  <title>Maptime SLC</title>
  <link href="http://maptimeslc.org/atom.xml" rel="self"/>
  <link href="http://maptimeslc.org/"/>
- <updated>2014-04-22T13:47:37-06:00</updated>
+ <updated>2014-04-22T14:43:26-06:00</updated>
  <id>http://maptimeslc.org</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>OpenStreetMap Edit-a-thon This Saturday</title>
+   <link href="http://maptimeslc.org/2014/04/22/editathon/"/>
+   <updated>2014-04-22T00:00:00-06:00</updated>
+   <id>http://maptimeslc.org/2014/04/22/editathon</id>
+   <content type="html">&lt;p&gt;I am excited to announce our first event - the &lt;strong&gt;OpenStreetMap Spring Edit-a-thon&lt;/strong&gt;! We are taking part in a this nationwide event aimed at improving OpenStreetMap, the free wiki world map, everywhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/9328231481_a7524eb644_z.jpg&quot; alt=&quot;Maptime in San Francisco&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;People editing OpenStreetMap at a previous Edit-a-thon, photo by &lt;a href=&quot;https://flic.kr/p/fdiCeg&quot;&gt;Alan McConchie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We will gather at &lt;a href=&quot;http://www.openstreetmap.org/node/2641243050#map=17/40.72406/-111.86021&quot;&gt;Joffee's Coffees&lt;/a&gt; this Saturday at 2PM. Come out and map the world!&lt;/p&gt;
+
+&lt;p&gt;If you have never edited OpenStreetMap before, come and learn! Bring your laptop and a mouse if you have one. If you want, you can &lt;a href=&quot;http://osm.org/user/new&quot;&gt;sign up for OpenStreetMap&lt;/a&gt; now and start looking around.&lt;/p&gt;
+
+&lt;p&gt;Here's a great video that will show you the basics of editing OpenStreetMap. It is by the &lt;a href=&quot;http://mapgive.state.gov/&quot;&gt;MapGive&lt;/a&gt; campaign and aimed at mapping for humanitarian causes, but even if you want to edit the map right here in Utah, this video has good instructions.&lt;/p&gt;
+
+&lt;iframe width=&quot;685&quot; height=&quot;385&quot; src=&quot;//www.youtube.com/embed/Ir-3K0pjwOI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</content>
+ </entry>
  
  <entry>
    <title>Welcome</title>
