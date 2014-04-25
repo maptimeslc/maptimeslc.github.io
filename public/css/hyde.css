@@ -216,7 +216,10 @@ a:focus {
   text-decoration: underline;
 }
 
-
+h1 a:hover {
+  color:#c0d989;
+  text-decoration: none;
+}
 /*
  * Masthead
  *

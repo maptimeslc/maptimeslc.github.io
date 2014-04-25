@@ -5,9 +5,21 @@
 
   <body class='theme-base-0b'>
 
+  <!-- facebook stuff -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=766855263333671";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- end facebook stuff -->
+
     <header class="masthead">
       <div class="masthead-inner">
-        <h1>{{ site.title }}</h1>
+        <h1><a href="/">{{ site.title }}</a></h1>
         <p class="lead">{{ site.description }}</p>
         <p>
 
