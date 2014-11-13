@@ -4,13 +4,42 @@
  <title>Maptime SLC</title>
  <link href="http://maptimeslc.org/atom.xml" rel="self"/>
  <link href="http://maptimeslc.org/"/>
- <updated>2014-04-22T14:43:26-06:00</updated>
+ <updated>2014-11-12T20:37:44-07:00</updated>
  <id>http://maptimeslc.org</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Maptime QGIS soon!</title>
+   <link href="http://maptimeslc.org/2014/11/12/gisday/"/>
+   <updated>2014-11-12T00:00:00-07:00</updated>
+   <id>http://maptimeslc.org/2014/11/12/gisday</id>
+   <content type="html">&lt;p&gt;After a period of inactivity, Maptime SLC is ready to map &#39;n&#39; roll again! Stay tuned for a Maptime entirely dedicated to the awesome Open Source GIS software QGIS very soon! In the mean time, check out this artwork done entirely with QGIS and OpenStreetMap data:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://wiki.openstreetmap.org/w/images/e/e2/Lille_toile.jpg&quot; alt=&quot;art-lille-qgis&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you understand French, you can try following along with &lt;a href=&quot;http://www.portailsig.org/content/petit-atelier-cartographique-creer-une-cartographie-minimaliste-d-ilots-urbains-partir-des-d&quot;&gt;this tutorial&lt;/a&gt; describing how they did it!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OpenStreetMap Editing 101</title>
+   <link href="http://maptimeslc.org/2014/04/23/osm-video-ian-dees/"/>
+   <updated>2014-04-23T00:00:00-06:00</updated>
+   <id>http://maptimeslc.org/2014/04/23/osm-video-ian-dees</id>
+   <content type="html">&lt;p&gt;If you plan to come to our &lt;a href=&quot;/2014/04/22/editathon/&quot;&gt;OpenStreetMap Edit-a-thon on Saturday&lt;/a&gt;, and you want to learn more about editing OpenStreetMap now, here is another great video to watch:&lt;/p&gt;
+
+&lt;iframe width=&quot;500&quot; height=&quot;281&quot; src=&quot;//www.youtube.com/embed/2d4C9k3TWac&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;OpenStreetMap veteran Ian Dees takes you through the steps of creating an OpenStreetMap account and making your first edit.&lt;/p&gt;
+
+&lt;p&gt;I hope to see you on &lt;strong&gt;Saturday, from 2PM at Joffee&#39;s Coffees&lt;/strong&gt;!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>OpenStreetMap Edit-a-thon This Saturday</title>
@@ -23,15 +52,13 @@
 
 &lt;p&gt;&lt;em&gt;People editing OpenStreetMap at a previous Edit-a-thon, photo by &lt;a href=&quot;https://flic.kr/p/fdiCeg&quot;&gt;Alan McConchie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;We will gather at &lt;a href=&quot;http://www.openstreetmap.org/node/2641243050#map=17/40.72406/-111.86021&quot;&gt;Joffee's Coffees&lt;/a&gt; this Saturday at 2PM. Come out and map the world!&lt;/p&gt;
+&lt;p&gt;We will gather at &lt;a href=&quot;http://www.openstreetmap.org/node/2641243050#map=17/40.72406/-111.86021&quot;&gt;Joffee&#39;s Coffees&lt;/a&gt; this Saturday at 2PM. Come out and map the world!&lt;/p&gt;
 
 &lt;p&gt;If you have never edited OpenStreetMap before, come and learn! Bring your laptop and a mouse if you have one. If you want, you can &lt;a href=&quot;http://osm.org/user/new&quot;&gt;sign up for OpenStreetMap&lt;/a&gt; now and start looking around.&lt;/p&gt;
 
-&lt;p&gt;Here's a great video that will show you the basics of editing OpenStreetMap. It is by the &lt;a href=&quot;http://mapgive.state.gov/&quot;&gt;MapGive&lt;/a&gt; campaign and aimed at mapping for humanitarian causes, but even if you want to edit the map right here in Utah, this video has good instructions.&lt;/p&gt;
+&lt;p&gt;Here&#39;s a great video that will show you the basics of editing OpenStreetMap. It is by the &lt;a href=&quot;http://mapgive.state.gov/&quot;&gt;MapGive&lt;/a&gt; campaign and aimed at mapping for humanitarian causes, but even if you want to edit the map right here in Utah, this video has good instructions.&lt;/p&gt;
 
 &lt;iframe width=&quot;685&quot; height=&quot;385&quot; src=&quot;//www.youtube.com/embed/Ir-3K0pjwOI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
 
 </content>
  </entry>
@@ -51,7 +78,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/public/9328869443_bfe440f2d2_z.jpg&quot; alt=&quot;Maptime in San Francisco&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Maptime at &lt;a href=&quot;http://stamen.com&quot;&gt;stamen&lt;/a&gt; in San Francisco, photo by &lt;a href=&quot;https://flic.kr/p/fdmTSB&quot;&gt;Alan McConchie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Maptime at &lt;a href=&quot;http://codeforamerica.org&quot;&gt;Code For America&lt;/a&gt; in San Francisco, photo by &lt;a href=&quot;https://flic.kr/p/fdmTSB&quot;&gt;Alan McConchie&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
