@@ -8,5 +8,4 @@ author:
   email:      ''
 markdown:     rdiscount
 permalink:    pretty
-highlighter:  true
 paginate:     5
